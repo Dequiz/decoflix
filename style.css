@@ -97,7 +97,7 @@ label{
     width: 15px;
     background-color: black;
 }
-@media screen and (max-width: 480px){
+@media screen and (max-width: 465px){
 .container{
     left: 0px;
 }
@@ -106,7 +106,7 @@ label{
     left: 35px;
 }
 body{
-    height: 480px;
+    height: 465px;
     width: 10px;
 }
 }
