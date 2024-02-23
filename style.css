@@ -100,13 +100,14 @@ label{
 @media screen and (max-width: 465px){
 .container{
     left: 0px;
+    height: 430px;
 }
 .logo{
     position: relative;
     left: 35px;
 }
 body{
-    height: 500px;
-    width: 10px;
+    height: 568px;
 }
+
 }
