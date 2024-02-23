@@ -95,3 +95,9 @@ label{
     width: 15px;
     background-color: black;
 }
+@media screen and (max-width: 500px){
+.container{
+    left: 0px;
+}
+
+}
