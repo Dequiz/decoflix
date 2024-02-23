@@ -100,7 +100,6 @@ label{
 @media screen and (max-width: 500px){
 .container{
     left: 0px;
-    margin: 20px;
 }
 .logo{
     position: relative;
